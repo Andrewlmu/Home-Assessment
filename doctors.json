@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "specialty": "Surgery",
+    "area": "New York",
+    "reviewScore": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "specialty": "Pediatrics",
+    "area": "New York",
+    "reviewScore": 3.5
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "specialty": "Surgery",
+    "area": "North Carolina",
+    "reviewScore": 3.5
+  },
+  {
+    "id": 4,
+    "name": "Jane Smith",
+    "specialty": "Pediatrics",
+    "area": "North Carolina",
+    "reviewScore": 4.5
+  }
+]

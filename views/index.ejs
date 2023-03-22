@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/styles.css">
+    <title>Doctors</title>
+  </head>
+  <body>
+    <h1>Doctors</h1>
+    <ul>
+      <% doctors.forEach(doctor => { %>
+      <li><a href="/doctor/<%= doctor.id %>"><%= doctor.name %></a></li>
+      <% }) %>
+    </ul>
+  </body>
+</html>
